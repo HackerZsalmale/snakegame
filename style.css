@@ -1,0 +1,37 @@
+#snake {
+    width: 32px;
+    height: 32px;
+    background-color: green;
+    border-radius: 3px;
+    position: absolute;
+}
+
+body {
+    background-color: black;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+#game {
+    width: 544px;
+    height: 544px;
+    background-color: darkgrey;
+    border: 3px solid red;
+    border-radius: 17px;
+}
+
+#apple {
+    width: 32px;
+    height: 32px;
+    background-color: red;
+    border-radius: 3px;
+    position: absolute;
+}
+
+#part {
+    width: 32px;
+    height: 32px;
+    background-color: darkgreen;
+    border-radius: 3px;
+}
